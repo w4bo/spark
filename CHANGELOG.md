@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/w4bo/spark/compare/1.0.0...1.0.1) (2024-03-07)
+
+
+### Bug Fixes
+
+* **Dockerfile:** fix Spark image version ([3ce4529](https://github.com/w4bo/spark/commit/3ce452955529d86d601ff7f75e53605739165a13))
+* **Dockerfile:** fix the image name ([2c35a67](https://github.com/w4bo/spark/commit/2c35a67a79855cb260c9b2f20303f71f373d9384))
+
 ## 1.0.0 (2024-03-07)
 
 
