@@ -9,8 +9,7 @@ jobs:
         - uses: actions/checkout@v4
         - name: Run docker
           run: |
-            echo "YOUR_KEY_HERE!" >> authorized_keys
-            docker compose up -d
+            docker compose build
     
     release:
       needs:
