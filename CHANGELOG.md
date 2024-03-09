@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/w4bo/spark/compare/1.0.2...1.0.3) (2024-03-09)
+
+
+### Bug Fixes
+
+* **deps:** update docker/login-action digest to 5139682 ([d7b0770](https://github.com/w4bo/spark/commit/d7b0770532e1ac51ee691f7b9541be7401e90b02))
+
 ## [1.0.2](https://github.com/w4bo/spark/compare/1.0.1...1.0.2) (2024-03-09)
 
 
