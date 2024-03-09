@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/w4bo/spark/compare/1.0.1...1.0.2) (2024-03-09)
+
+
+### Bug Fixes
+
+* **deps:** update docker/build-push-action digest to af5a7ed ([0eacc82](https://github.com/w4bo/spark/commit/0eacc82ec21eef6854fe3f481065163a055bcff0))
+
 ## [1.0.1](https://github.com/w4bo/spark/compare/1.0.0...1.0.1) (2024-03-07)
 
 
