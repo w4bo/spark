@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/w4bo/spark/compare/1.0.7...1.0.8) (2024-03-14)
+
+
+### Bug Fixes
+
+* **deps:** update docker/metadata-action digest to 7535934 ([5b70431](https://github.com/w4bo/spark/commit/5b704315550d5ed01e4924431eae80718106bd2b))
+
 ## [1.0.7](https://github.com/w4bo/spark/compare/1.0.6...1.0.7) (2024-03-14)
 
 
